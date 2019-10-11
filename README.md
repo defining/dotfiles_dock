@@ -1,10 +1,10 @@
-# Configuration files
+# Configuration files V2 (whithout Makefile)
 
 ## Installation
 
 1. backup your current configuration files, they will be overwrite
 2. `cd` in this repo (name of the folder has to be dotfiles)
-3. run `make`
+3. run `sh init_config.sh`
 
 ## Tools I use
 
